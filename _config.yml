@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Yanan Fu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "PhD Student at IAP/CAS"
   location         : "Beijing"
   email            :
