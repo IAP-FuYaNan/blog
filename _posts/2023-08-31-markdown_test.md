@@ -16,8 +16,7 @@ gallery_01:
     image_path: /images/avatar.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
----
----
+    
 gallery_02:
   - url: /images/avatar.jpg
     image_path: /images/avatar.jpg
@@ -32,6 +31,7 @@ gallery_02:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
+
 
 
 
