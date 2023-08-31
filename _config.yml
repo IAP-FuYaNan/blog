@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SUN's Lab"
+title                    : "HOMEPAGE"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jianhua Sun's Lab"
-description              : "The academic website of Jianhua Sun's lab at IAP/CAS."
+name                     : "Yanan Fu"
+description              : "The academic website of Yanan Fu."
 url                      : "https://iap-fuyanan.github.io/minimal-mistakes/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jianhua Sun's Lab"
+  name             : "Yanan Fu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Jianhua Sun's Lab at IAP/CAS"
+  bio              : "PhD Student at IAP/CAS"
   location         : "Beijing"
   email            :
   links:
