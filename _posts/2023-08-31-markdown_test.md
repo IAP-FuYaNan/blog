@@ -55,10 +55,10 @@ def CalcSum(a, b):
 > This is a text. This is a text. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence.
 
 
-{% include gallery id="gallary_01" caption="This is a sample gallery with **Markdown support**." style="border-radius: 100%" %}
+{% include gallery id="gallery_01" caption="This is a sample gallery with **Markdown support**." style="border-radius: 100%" %}
 
 
-{% include gallery id="gallary_02" caption="This is gallery 02." %}
+{% include gallery id="gallery_02" caption="This is gallery 02." %}
 
 
 
