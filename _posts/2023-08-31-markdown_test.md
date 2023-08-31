@@ -58,9 +58,7 @@ def CalcSum(a, b):
 {% include gallery id="gallary_01" caption="This is a sample gallery with **Markdown support**." %}
 
 
-
-
-{% include gallery id="gallary_02" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallary_02" caption="This is gallery 02." %}
 
 
 
