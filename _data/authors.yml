@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Yanan Fu:
+  name        : "Yanan Fu"
+  bio         : "A PhD student at IAP/CAS."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://www.baidu.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.baidu.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://www.baidu.com"
