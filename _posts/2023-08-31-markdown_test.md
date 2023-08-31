@@ -47,10 +47,15 @@ def CalcSum(a, b):
 > 这是一段引用的中文文本。
 
 ### 中文标题一
+
 ## 中文标题二
+
 ## 中文标题三
+
 # 中文标题四
+
 ## 中文标题五
+
 
 {% include gallery id="gallery_01" caption="This is a sample gallery with **Markdown support**." %}
 
