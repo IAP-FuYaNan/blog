@@ -26,9 +26,6 @@ gallery_02:
 ---
 
 
-
-
-
 ```python
 # This is a python script
 
@@ -47,8 +44,7 @@ def CalcSum(a, b):
 > This is a sentence.
 > This is a text. This is a text. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence. This is a sentence.
 
-
-{% include gallery id="gallery_01" caption="This is a sample gallery with **Markdown support**." border-radius="100%" %}
+{% include gallery id="gallery_01" caption="This is a sample gallery with **Markdown support**." %}
 
 {% include gallery id="gallery_03" caption="This is a second gallery example with images hosted externally." %}
 
