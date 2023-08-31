@@ -54,7 +54,7 @@ def CalcSum(a, b):
 
 {% include gallery id="gallery_01" caption="This is a sample gallery with **Markdown support**." %}
 
-{% include gallery id="gallery_03" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery_02" caption="This is a second gallery example with images hosted externally." %}
 
 {% include gallery id="gallery_01" class="full" caption="This is a third gallery example with two images and fills the entire content container." %}
 
