@@ -36,5 +36,5 @@ gallery_01:
     title: "severe convecitve storm 9"
 ---
 
-
+{% include gallery id="gallery_01" caption="**Severe Convective Storms** created by PlaygroundAI." %}
 
