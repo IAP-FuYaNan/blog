@@ -1,5 +1,5 @@
 
-```Ruby
+```python
 # This is a python script
 
 import numpy as np
