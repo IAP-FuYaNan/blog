@@ -127,7 +127,7 @@ author:
       url: "https://www.baidu.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.baidu.com"
+      url: "https://www.baidu.com"
 
 # Site Footer
 footer:
