@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yanan Fu"
-description              : "The academic website of Yanan Fu."
-url                      : "https://iap-fuyanan.github.io/minimal-mistakes/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Jianhua Sun's Lab"
+description              : "The academic website of Jianhua Sun's Lab."
+url                      : "https://iap-fuyanan.github.io/blog/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "iap-fuyanan.github.io/minimal-mistakes"
+repository               : "iap-fuyanan.github.io/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanan Fu"
+  name             : "Jianhua Sun's Lab"
   avatar           : "/images/avatar.jpg"
-  bio              : "PhD Student at IAP/CAS"
+  bio              : "IAP/CAS"
   location         : "Beijing"
   email            :
   links:
